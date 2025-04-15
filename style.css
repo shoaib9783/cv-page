@@ -5,20 +5,32 @@
     box-sizing: border-box;
 }
 
-section
+header
 {
     width: 500px;
     margin: auto;
-    padding: 30px 0px;
+    padding: 30px 0px; 
 }
 
-section h1
+#main
+{
+    width: 500px;
+    margin: auto;
+}
+
+header h1
 {
     font-size: 30px;
 }
 
-span
+h2
 {
     font-size: 20px;
     color: red;
+}
+
+h3
+{
+    font-size: 20px;
+    color: aqua;
 }
